@@ -8,6 +8,7 @@
     "start": "node queue/circularQueue.js",
     "l-queue": "node linkedList/linkedListQueue.js",
     "hash": "node hashTable/index.js",
+    "array": "node array/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
