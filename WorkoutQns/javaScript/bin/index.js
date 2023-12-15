@@ -1,1 +1,1 @@
-import '../dist/Omiting-k-from-array/sixthMethod.js';
+import '../dist/dynamicProgramming/index.js';
