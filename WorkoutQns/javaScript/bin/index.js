@@ -1,1 +1,1 @@
-import '../dist/dynamicProgramming/index.js';
+import '../dist/reverse_workouts/reverseInt.js';
